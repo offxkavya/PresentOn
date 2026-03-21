@@ -2,8 +2,9 @@
 name: Agent Task
 about: Define a task for an AI agent (prompt, skill, or automation)
 title: "[AGENT] "
-labels: agent-task
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ## Agent Task Summary
