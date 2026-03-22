@@ -1,5 +1,5 @@
 import { OpenRouter } from "@openrouter/sdk";
-import { ANTI_PLAGIARISM_LAYER } from "./agents/anti_plagiarism";
+import { ANTI_PLAGIARISM_LAYER } from "./agents/anti_plagiarism_agent";
 import dotenv from "dotenv";
 dotenv.config();
 
